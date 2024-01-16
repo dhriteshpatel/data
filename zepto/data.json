@@ -1,7 +1,7 @@
 [
-    { "id": 1, "label": "Item 1", "email": "item1@example.com", "icon": "👩‍💼" },
-    { "id": 2, "label": "Item 2", "email": "item2@example.com", "icon": "👨‍💼" },
-    { "id": 3, "label": "Item 3", "email": "item3@example.com", "icon": "👤" },
-    { "id": 4, "label": "Item 4", "email": "item4@example.com", "icon": "👨‍💼" },
-    { "id": 5, "label": "Item 5", "email": "item5@example.com", "icon": "👤" }
+    { "id": 1, "label": "Dhritesh", "name": { "first": "Dhritesh", "last": "Patel" }, "email": "dhritesh@gmail.com", "icon": "👩‍💼" },
+    { "id": 2, "label": "Harshil",  "name": { "first": "Harshil", "last": "Macwan" }, "email": "harshil@gmail.com", "icon": "👨‍💼" },
+    { "id": 3, "label": "Uttam", "name": { "first": "Uttam", "last": "Rabari" }, "email": "uttam@gmail.com", "icon": "👤" },
+    { "id": 4, "label": "Aditya", "name": { "first": "Aditya", "last": "Mishra" }, "email": "aditya@gmail.com", "icon": "👨‍💼" },
+    { "id": 5, "label": "Pritish", "name": { "first": "Pritish", "last": "Mehta" }, "email": "pritish@gmail.com", "icon": "👤" }
   ]
