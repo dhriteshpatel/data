@@ -1,0 +1,7 @@
+[
+    { "id": 1, "label": "Item 1", "email": "item1@example.com", "icon": "👩‍💼" },
+    { "id": 2, "label": "Item 2", "email": "item2@example.com", "icon": "👨‍💼" },
+    { "id": 3, "label": "Item 3", "email": "item3@example.com", "icon": "👤" },
+    { "id": 4, "label": "Item 4", "email": "item4@example.com", "icon": "👨‍💼" },
+    { "id": 5, "label": "Item 5", "email": "item5@example.com", "icon": "👤" }
+  ]
